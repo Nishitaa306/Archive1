@@ -1,4 +1,5 @@
 <h1>For postgre sql</h1>
+CREATE DATABASE cis_audit_user;
 \c cis_audit;
 
 \dn
